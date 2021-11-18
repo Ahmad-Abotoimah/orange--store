@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(251,251,251);
+}
+.out-of{
+    text-align: center;
+    font-size: 12px;
+    top: 50%;
+    left: 50%;
+    background-color: red;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.out-of-stock{
+    color:#fff;
+}
+.g-star{
+    color : gray;
+}
+.s-star{
+    color: orange;
+}
+ /* .container{
+    margin-left: 20px;
+} */
+.row{
+    margin-left: 190px;
+} 
+.card{
+    margin: 10px;
+}
+.mh{
+    min-height: 45px;
+}
